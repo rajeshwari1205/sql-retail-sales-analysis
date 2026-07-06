@@ -123,6 +123,12 @@ The project demonstrates beginner, intermediate, and advanced SQL concepts by so
 
 --- 
 
+## Conclusion
+
+This project demonstrates my ability to analyze retail sales data using SQL by applying filtering, aggregation, grouping, sorting, and business analysis techniques. The insights generated can help businesses understand sales performance, customer purchasing behavior, and revenue trends.
+
+---
+
 ## Author
 
 Rajeshwari P
