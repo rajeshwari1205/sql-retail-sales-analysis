@@ -92,6 +92,20 @@ The project demonstrates beginner, intermediate, and advanced SQL concepts by so
 
 ---
 
+## Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Aggregate Functions
+- GROUP BY
+- ORDER BY
+- WHERE Clause
+- HAVING Clause
+- CASE Statements
+- Date Functions
+- Business Analysis
+
+---
 ## Author
 
 Rajeshwari P
