@@ -8,10 +8,11 @@ The project demonstrates beginner, intermediate, and advanced SQL concepts by so
 
 ---
 
-### Dataset Preview
+### Dataset Preview 1
 
 ![Dataset1](https://github.com/rajeshwari1205/sql-retail-sales-analysis/blob/main/Screenshots/customers_table.png)
 
+### Dataset Perview 2
 ![Dataset2](https://github.com/rajeshwari1205/sql-retail-sales-analysis/blob/main/Screenshots/orders_table.png)
 
 ### Query 1 – Total Revenue
