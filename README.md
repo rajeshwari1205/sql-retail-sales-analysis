@@ -8,7 +8,7 @@ The project demonstrates beginner, intermediate, and advanced SQL concepts by so
 
 ---
 
-## Dataset Preview
+### Dataset Preview
 
 ![Dataset1](<img width="605" height="417" alt="Dashboard Overview" src="https://github.com/rajeshwari1205/sql-retail-sales-analysis/blob/main/Screenshots/customers_table.png" />)
 
