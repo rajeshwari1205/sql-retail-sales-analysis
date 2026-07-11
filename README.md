@@ -8,6 +8,22 @@ The project demonstrates beginner, intermediate, and advanced SQL concepts by so
 
 ---
 
+## Dataset Preview
+
+![Dataset](<img width="605" height="417" alt="Dashboard Overview" src="https://github.com/rajeshwari1205/sql-retail-sales-analysis/blob/main/Screenshots/customers_table.png" />)
+
+![Dataset](<img width="605" height="417" alt="Dashboard Overview" src="https://github.com/rajeshwari1205/sql-retail-sales-analysis/blob/main/Screenshots/orders_table.png" />)
+
+### Query 1 – Total Revenue
+
+![Total Revenue](https://github.com/rajeshwari1205/sql-retail-sales-analysis/blob/main/Screenshots/revenue_by_city.png)
+
+### Query 2 – Top Selling Customers
+
+![Top Selling Products](https://github.com/rajeshwari1205/sql-retail-sales-analysis/blob/main/Screenshots/top_customers.png)
+
+---
+
 ## Objectives
 
 - Analyze customer purchase behavior
